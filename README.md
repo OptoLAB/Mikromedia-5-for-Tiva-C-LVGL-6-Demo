@@ -2,7 +2,9 @@
 
 ## About project
 
-This is a simple test for Texas Instruments TivaWare graphics library (grlib) ported on [Mikromedia 5 for Tiva C Series](https://www.mikroe.com/mikromedia-5-tiva) development board with [TM4C129XNCZAD](https://www.ti.com/product/TM4C129XNCZAD) mcu from [Mikroelektronika](https://www.mikroe.com/).
+This is a demo project for Mikromedia 7 Capacitive board with STM32F7 mcu (MCU Card 23) by Mikroelektronika.
+
+This is a demo project for [Mikromedia 5 for Tiva C Series](https://www.mikroe.com/mikromedia-5-tiva) development board with [TM4C129XNCZAD](https://www.ti.com/product/TM4C129XNCZAD) mcu built using LVGL - Light and Versitile Graphics version 6.12.
 
 <p align="center">
 <img src="https://github.com/OptoLAB/Mikromedia-5-for-Tiva-C-LVGL-6-Demo/blob/main/img/20230212_211608.jpg" width="600"/>
