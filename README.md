@@ -15,4 +15,4 @@ Project was built using following ecosystem:
 - [LVGL Graphics Library](https://github.com/lvgl/lvgl/tree/release/v6) (v6.12) - Free and open-source embedded graphics library
 - mikroProg Suite for Arm (v1.61) - Mirkoelektronika’s programmer and debugger
 
-Similar demo using LVGL v8.2 can be found here [here](https://www.optolab.ftn.uns.ac.rs)
+Similar demo using LVGL v8.2 can be found here [here](https://github.com/OptoLAB/Mikromedia-5-for-Tiva-C-LVGL-8-Demo)
